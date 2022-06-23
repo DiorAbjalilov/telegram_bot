@@ -1,0 +1,14 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "s": "nodemon app"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.6",
+    "nodemon": "^2.0.16"
+  },
+  "type": "module"
+}
